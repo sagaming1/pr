@@ -23,7 +23,7 @@ WebUI.navigateToUrl('http://demowebshop.tricentis.com/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('1/a_Log in2'))
+WebUI.click(findTestObject('1/a_Log in'))
 
 WebUI.setText(findTestObject('1/input_Email_Email'), '87sxy5u9u2@gmail.com')
 
